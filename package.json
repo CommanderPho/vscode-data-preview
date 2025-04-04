@@ -2,18 +2,18 @@
   "name": "vscode-data-preview",
   "displayName": "Data Preview",
   "description": "Data Preview 🈸 extension for importing 📤 viewing 🔎 slicing 🔪 dicing 🎲 charting 📊 & exporting 📥 large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "icon": "images/data-preview.png",
-  "publisher": "RandomFractalsInc",
-  "author": "Taras Novak",
+  "publisher": "phohale",
+  "author": "Taras Novak + Pho Hale",
   "contributors": [
-    "Taras Novak"
+    "Taras Novak", "Pho Hale"
   ],
   "license": "Apache-2.0",
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RandomFractals/vscode-data-preview"
+    "url": "https://github.com/CommanderPho/vscode-data-preview"
   },
   "bugs": "https://github.com/RandomFractals/vscode-data-preview/issues",
   "homepage": "https://github.com/RandomFractals/vscode-data-preview/README.md",
